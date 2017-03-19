@@ -1,0 +1,7 @@
+[package]
+authors = ["Owen Sanchez <pengowen816@gmail.com>"]
+name = "minsky"
+version = "0.1.0"
+
+[dependencies]
+typenum = "1.6.0"
